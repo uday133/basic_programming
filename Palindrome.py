@@ -8,3 +8,4 @@ class Solution:
 
 palindrome_obj = Solution()
 print(palindrome_obj.isPalindrome(120))
+
